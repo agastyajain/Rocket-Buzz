@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 99.7%;
+    height: 99vh;
+    border: 2px solid black;
+    background-image: url("images/game.png");
+    background-repeat: no-repeat;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 56px;s
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+.learn{
+    width: 300px;
+    height: 80px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 50px;
+    outline: none;
+    margin-top: 50px;
+    margin-right: 30px;
+    float: right;
+    color: black;
+    text-decoration: bold;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.learn:hover{
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    text-decoration: bold;
+}
+
+.games{
+    width: 300px;
+    height: 80px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 50px;
+    outline: none;
+    margin-top: 150px;
+    margin-right: -300px;
+    float: right;
+    color: black;
+    text-decoration: bold;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.games:hover{
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    text-decoration: bold;
+}
+
+.explore{
+    width: 300px;
+    height: 80px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 50px;
+    outline: none;
+    margin-top: 250px;
+    margin-right: -300px;
+    float: right;
+    color: black;
+    text-decoration: bold;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.explore:hover{
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    text-decoration: bold;
+}
+
+.multi{
+    width: 300px;
+    height: 80px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 50px;
+    outline: none;
+    margin-top: 350px;
+    margin-right: -300px;
+    float: right;
+    color: black;
+    text-decoration: bold;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.multi:hover{
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    text-decoration: bold;
+}
+
+.logo{
+    width: 800px;
+    height: 450px;
+    border: 10px solid darkslategray;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.logo .img{
+    width: 800px;
+    height: 450px;
+}
+
+.trailer{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+ a:hover{
+    color: white;
+ }
